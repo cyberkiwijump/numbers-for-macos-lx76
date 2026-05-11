@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Numbers for macOS helper with advanced Numbers for macOS Helper | symbolic-computation + code-autocompletion. Featuring symbolic-computation and
 
 
 
